@@ -22,9 +22,7 @@ Use calcHist() function to mark the image in graph frequency for gray and color 
 The Histogram of gray scale image and color image is shown.
 
 ## Program:
-```python
-# Developed By: ADHITHYARAM D
-# Register Number: 212222230008
+
 
 import cv2
 import matplotlib.pyplot as plt
